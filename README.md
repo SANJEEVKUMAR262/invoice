@@ -1,11 +1,14 @@
 # Acadza Invoice System
 
-A single-file invoice management system for Acadza employees.
+A self-contained invoice management system. No install needed.
+
+## How to use
+Open `index.html` in a browser (serve over HTTP, not file://)
 
 ## Features
-- Employee dashboard with add/edit
-- PDF and DOCX invoice generation
-- Gmail integration for direct sending
+- Employee dashboard
+- PDF & DOCX invoice generation  
+- Gmail integration for sending invoices
 - Monthly billing with TDS calculation
 
 ## Live App
